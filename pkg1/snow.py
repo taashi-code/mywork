@@ -5,3 +5,4 @@ def sum(a, b):
 c = sum(2, 3)
 print(c)
 
+s = 3
